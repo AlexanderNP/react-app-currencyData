@@ -1,0 +1,23 @@
+.darkTheme {
+
+  --shadow: rgba(232, 232, 238, 0.2);
+  --search-color: #C9C9C9;
+  --text-color: white;
+  --extra-text-color: #B9B9B9;
+  --back-color: #202020;
+  --search-text-color: black;
+  --theme-button-color: white;
+
+}
+
+.lightTheme {
+
+  --shadow: rgba(100, 100, 111, 0.2);
+  --search-color: #C9C9C9;
+  --text-color: black;
+  --extra-text-color: #2F2F2F;
+  --back-color: rgb(252, 252, 252);
+  --search-text-color: black;
+  --theme-button-color: #C9C9C9;
+
+}
